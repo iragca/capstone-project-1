@@ -1,0 +1,17 @@
+black
+flake8
+isort
+loguru
+mkdocs
+pip
+python-dotenv
+tqdm
+typer
+ipykernel
+-e .
+
+# Custom
+polars
+pyarrow
+ydata-profiling
+ipywidgets
