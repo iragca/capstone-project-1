@@ -10,7 +10,14 @@
         "cpus": 2,
         "memory": "16gb",
         "storage": "32gb"
-    }
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"ms-toolsai.jupyter"
+			]
+		}
+	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
