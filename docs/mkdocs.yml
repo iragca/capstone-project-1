@@ -1,4 +1,14 @@
 site_name: capstone-project-1
 # 
-site_author: Irag, C.A.
-# 
+site_author: Chris Andrei Irag
+#
+
+theme:
+  name: material
+
+nav:
+  - Home: reports.md
+  - Yellow-Taxi: yellow_profile.html
+  - Green-Taxi: green_profile.html
+  - For-Hire-Vehicle: fhv_profile.html
+  - High-Volume-For-Hire-Vehicle: hvfhv_profile.html
