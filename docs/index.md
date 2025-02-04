@@ -9,7 +9,7 @@ Reports:
 - [Green Taxi](green_profile.html)
 - [Yellow Taxi](yellow_profile.html)
 - [For-Hire-Vehicle](fhv_profile.html)
-- [High Volumne For Hire Vehicle](fhvhv_profile.html)
+- [High Volume For Hire Vehicle](fhvhv_profile.html)
 
 Sources:
 
