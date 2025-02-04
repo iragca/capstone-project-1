@@ -8,7 +8,7 @@ theme:
   name: material
 
 nav:
-  - Home: reports.md
+  - Home: index.md
   - Yellow-Taxi: yellow_profile.html
   - Green-Taxi: green_profile.html
   - For-Hire-Vehicle: fhv_profile.html
