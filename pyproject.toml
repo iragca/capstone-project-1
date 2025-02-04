@@ -10,7 +10,7 @@ authors = [
   { name = "Chris Andrei Irag", email = "chrisandrei.irag@1.ustp.edu.ph" },
   { name = "Karylle Dela Cruz", email = "karylle.dc30@gmail.com" },
   { name = "Usher Raymond Abainza", email = "usher.abainza@gmail.com" },
-  { name = "Dane Casiño", email = "dane.casiño@1.ustp.edu.ph" },
+  { name = "Dane Casiño", email = "dane.casino@1.ustp.edu.ph" },
 ]
 license = { file = "LICENSE" }
 readme = "README.md"
