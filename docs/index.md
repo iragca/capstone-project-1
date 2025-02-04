@@ -4,6 +4,15 @@
 
 ## New York Taxi Data
 
+Reports:
+
+- [Green Taxi](green_profile.html)
+- [Yellow Taxi](yellow_profile.html)
+- [For-Hire-Vehicle](fhv_profile.html)
+- [High Volumne For Hire Vehicle](fhvhv_profile.html)
+
+Sources:
+
 - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2024-11.parquet
 - https://d37ci6vzurychx.cloudfront.net/trip-data/green_tripdata_2024-11.parquet
