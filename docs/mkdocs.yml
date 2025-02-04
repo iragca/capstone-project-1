@@ -2,7 +2,8 @@ site_name: capstone-project-1
 # 
 site_author: Chris Andrei Irag
 #
-site: docs
+site_dir: docs
+docs_dir: docs
 
 theme:
   name: material
